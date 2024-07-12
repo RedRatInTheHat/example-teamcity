@@ -13,4 +13,8 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+
+	public String wakeUp() {
+		return "Ah, welcome home, good hunter. I must've drifted off, what is it you desire?";
+	}
 }
